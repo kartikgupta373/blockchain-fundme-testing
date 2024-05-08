@@ -48,3 +48,4 @@ contract InteractionsTest is StdCheats, Test {
         assertEq(preOwnerBalance + SEND_VALUE, afterOwnerBalance);
     }
 }
+// 1000000000000000000
